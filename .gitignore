@@ -1,0 +1,7 @@
+Debug/
+Grom/Debug/
+Grom/*.tmp
+Grom/*.aps
+*.sdf
+*.opensdf
+*.v12.suo
